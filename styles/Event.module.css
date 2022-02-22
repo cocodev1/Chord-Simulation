@@ -1,0 +1,17 @@
+.event {
+    padding: 2%;
+    white-space: nowrap;
+}
+
+.shadowed {
+    text-shadow: 0 1px 10px, 0 1px 10px;
+    display: inline-block;
+    width: 30px;
+    -webkit-line-clamp: 2;
+    text-overflow: ellipsis;
+    -webkit-box-orient: vertical;
+}
+
+.key {
+    opacity: 0.7;
+}
